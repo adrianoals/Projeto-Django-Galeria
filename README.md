@@ -1,7 +1,7 @@
 # Galeria de Fotos com Django
 
 ## Descrição
-Este projeto consiste em uma galeria de fotos desenvolvida durante a formação em Django pela Alura. O sistema permite aos usuários visualizar, adicionar, editar e excluir fotos. A aplicação é construída com Django, um poderoso framework web para Python, e segue as melhores práticas de desenvolvimento, segurança e gerenciamento de banco de dados.
+Este projeto consiste em uma galeria de fotos desenvolvida durante a formação em Django pela Alura. O sistema permite aos usuários visualizar, adicionar, editar e excluir fotos.
 
 ## Recursos e Tecnologias Utilizadas
 - **Django:** Framework web para desenvolvimento rápido e limpo com Python.
